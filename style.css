@@ -54,7 +54,7 @@ h1 {
 }
 
 .btn {
-    background: navy;
+    background: #123347;
     color: white;
     border: none;
     padding: 6px 10px;
@@ -96,4 +96,5 @@ button.delete {
 
 button.delete:hover {
     background: #c82333;
+
 }
